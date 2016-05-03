@@ -1,0 +1,1 @@
+Caixa de pesquisa utilizada na borda no topo das páginas.
