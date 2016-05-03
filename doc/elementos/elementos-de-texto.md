@@ -1,0 +1,1 @@
+Elementos que podem ser aplicados no corpo do texto. 

@@ -1,0 +1,1 @@
+Ícones utilizados na borda no topo das páginas.
